@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Manish Singh
 - 👀 I’m interested in App development (Android , iOS) and Machine Learning.
-- 🌱 I’m currently MTS-2 at Nineleaps. I'm working as backend developer (Java-Spring boot).
+- 🌱 I’m currently Software Developer at Nineleaps. I'm working as backend developer (Java-Spring boot).
 - 💞️ I’m looking to collaborate on Machine Learning and Flutter.
 - 📫 How to reach me ...
 
